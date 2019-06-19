@@ -5,7 +5,7 @@
 
 =head1 STATUS
 
-Draft series (0.1.x), might still change. Will be stable in 0.2.x.
+Draft series (0.x), might still change. Will be stable in 1.0.
 
 
 =head1 ABSTRACT
